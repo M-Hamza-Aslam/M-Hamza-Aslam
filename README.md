@@ -1,8 +1,10 @@
 [![MasterHead](https://www.ownlydigital.com/images/device/web-1.jpg)](https://portfolio-website-m-hamza-aslam.vercel.app/)
 
 <h1 align="center">Hi 👋, I'm Muhammad Hamza</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A passionate MERN Stack developer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://static.wixstatic.com/media/d8b182_37e8bb1f59554749a15ce0f9ced8b726~mv2.gif">
+
+![](https://komarev.com/ghpvc/?username=M-Hamza-Aslam&style=flat-square)
 
 - 🌱 I’m currently learning **MERN Stack & Web3**
 
